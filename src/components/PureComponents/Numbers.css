@@ -1,0 +1,35 @@
+body{
+    height: 100%;
+    background-color: black;
+}
+.Numbers {
+    padding: 30px;
+    justify-content: center;
+    text-align: center;
+}
+
+.Numbers input {
+    color: rgb(195, 91, 188);
+    background-color: black;
+    width: 500px;
+    height: 60px;
+    font-size: 20px;
+    border: 5px solid rgb(195, 91, 188);
+    border-radius: 100px;
+    padding: 10px;
+}
+
+.Numbers ul {
+    padding-top: 5%;
+    list-style: none;
+    color:rgb(195, 91, 188);
+    width: 40%;
+    margin: auto;
+}
+
+.Numbers ul li {
+    border: 1px solid rgb(195, 91, 188);
+    padding: 10px;
+    border-radius: 10%;
+}
+
